@@ -2,6 +2,7 @@
   "name": "ctc-calc",
   "author": "Bhumesh Domala",
   "version": "0.1.0",
+  "homepage" : "http://umeshgmrl.github.io/ctc-calc",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
